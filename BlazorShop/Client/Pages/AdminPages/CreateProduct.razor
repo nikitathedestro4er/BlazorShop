@@ -1,0 +1,88 @@
+@page "/edit/CreateProduct"
+@layout SimpleLayout
+
+<link href="css/blazorValidation" rel="stylesheet" />
+<h2>Create Product Form</h2>
+<EditForm Model="_product" OnValidSubmit="Create" class="card card-body bg-light mt-5">
+    <DataAnnotationsValidator/>
+    <div class="form-group row">
+        <label for="title" class="col-md-2 col-form-label">Title:</label>
+        <div class="col-md-10">
+            <InputText id="title" class="form-control" @bind-Value="_product.Title"/>
+            <ValidationMessage For="@(() => _product.Title)"/>
+        </div>
+    </div>
+    <div class="form-group row">
+        <label for="description" class="col-md-2 col-form-label">Description:</label>
+        <div class="col-md-10">
+            <InputTextArea id="description" class="form-control" @bind-Value="_product.Description"/>
+            <ValidationMessage For="@(() => _product.Description)"/>
+        </div>
+    </div>
+    <div class="form-group row">
+        <label for="image" class="col-md-2 col-form-label">Image URL:</label>
+        <div class="col-md-10">
+            <InputText id="Image" class="form-control" @bind-Value="_product.Image"/>
+            <ValidationMessage For="@(() => _product.Image)"/>
+        </div>
+    </div>
+    <div class="form-group row">
+        <label for="categoryid" class="col-md-2 col-form-label">Category ID:</label>
+        <div class="col-md-10">
+            <CustomSelect TValue="int" Values="Categories"
+                          Parser="@(str => int.Parse(str))"
+                          @bind-Value="_product.CategoryId">
+                <option selected disabled value="0">Choose a Category</option>
+            </CustomSelect>
+            <ValidationMessage For="@(() => _product.CategoryId)"/>
+        </div>
+    </div>
+    <div class="form-group row">
+        <label for="price" class="col-md-2 col-form-label">Price:</label>
+        <div class="col-md-10">
+            <InputNumber id="price" class="form-control" @bind-Value="_product.Price"/>
+            <ValidationMessage For="@(() => _product.Price)"/>
+        </div>
+    </div>
+    <div class="form-group row">
+        <label for="originalprice" class="col-md-2 col-form-label">Original Price:</label>
+        <div class="col-md-10">
+            <InputNumber id="originalprice" class="form-control" @bind-Value="_product.OriginalPrice"/>
+            <ValidationMessage For="@(() => _product.OriginalPrice)"/>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12 text-right">
+            <button type="submit" class="btn btn-success">Create</button>
+        </div>
+    </div>
+</EditForm>
+<SuccessNotification @ref="_notification"/>
+
+
+@code {
+
+    [Inject] 
+    IProductService ProductService { get; set; }
+    
+    [Inject]
+    ICategoryService CategoryService { get; set; }
+
+    private SuccessNotification _notification;
+    
+    private Product _product = new Product();
+    
+    public IDictionary<string, int> Categories { get; set; } = new Dictionary<string, int>();
+
+    private async Task Create()
+    {
+        await ProductService.CreateProduct(_product);
+        _notification.Show();
+    }
+
+    protected async override Task OnParametersSetAsync()
+    {
+        Categories = await CategoryService.GetCategories();
+    }
+
+}

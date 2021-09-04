@@ -1,0 +1,1312 @@
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/BlazorShop.Client.StaticWebAssets.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/BlazorShop.Client.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/BlazorShop.Client.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Client.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.Json.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Buffers.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/mscorlib.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Threading.Tasks.Extensions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Memory.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Text.Json.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/netstandard.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Xml.Linq.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Core.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Net.WebSockets.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Bindings.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Numerics.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Xml.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Mono.Security.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Transactions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.Serialization.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ServiceModel.Internals.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.Composition.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.IO.Compression.FileSystem.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.IO.Compression.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Drawing.Common.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Data.DataSetExtensions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Data.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Numerics.Vectors.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Text.Encodings.Web.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.Annotations.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.DataAnnotations.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Shared.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Primitives.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Options.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Client.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Shared.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.3.2.0.js
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.timezones.dat
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.wasm
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.webassembly.js
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.boot.json
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Client.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.Json.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Buffers.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/mscorlib.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Threading.Tasks.Extensions.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Memory.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Text.Json.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/netstandard.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Xml.Linq.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Core.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Net.WebSockets.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Bindings.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Numerics.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Xml.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Mono.Security.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Transactions.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.Serialization.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ServiceModel.Internals.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.Composition.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.IO.Compression.FileSystem.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.IO.Compression.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Drawing.Common.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Data.DataSetExtensions.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Data.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Numerics.Vectors.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Text.Encodings.Web.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.Annotations.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.DataAnnotations.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Shared.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Primitives.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Options.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Client.pdb.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Shared.pdb.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.3.2.0.js.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.timezones.dat.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.wasm.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.webassembly.js.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.boot.json.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Authorization.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.Forms.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.Web.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.WebAssembly.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Metadata.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Logging.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Options.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Primitives.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.JSInterop.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.JSInterop.WebAssembly.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Buffers.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.ComponentModel.Annotations.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Memory.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Net.Http.Json.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Numerics.Vectors.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Text.Encodings.Web.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Text.Json.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Threading.Tasks.Extensions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/BlazorShop.Shared.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/BlazorShop.Shared.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.csproj.AssemblyReference.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.AssemblyInfoInputs.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.AssemblyInfo.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.csproj.CoreCompileInputs.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.RazorComponent.input.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/App.razor.g.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Counter.razor.g.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/FetchData.razor.g.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Index.razor.g.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/MainLayout.razor.g.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/NavMenu.razor.g.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/_Imports.razor.g.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.RazorComponent.output.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/BlazorShop.Client.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.TagHelpers.input.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.TagHelpers.output.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.RazorCoreGenerate.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/App.razor.g.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/Counter.razor.g.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/FetchData.razor.g.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/Index.razor.g.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/MainLayout.razor.g.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/NavMenu.razor.g.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/SurveyPrompt.razor.g.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/_Imports.razor.g.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/blazor/unlinked.output
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/cppZZ-fVzpzTTpFUKfcC69P8AdPo5bqBIUUwtUdUlSY=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/OBWh2or_2mU6elwqPfmL72FBZVKl2WzTJ4L-IrKeXM4=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/Bs1Wrmh4ex9dTEIT0yCRF52N-wOmsBDt457BHr0-ssM=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/bSgsT2x5xMvs8mara5wU_EJwcyHa9GVMU85HwhWcdWM=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/m7Q_cF5-ji3OMfdGlCuE8pQ-iM_kxNHLq-IEWVvIaOg=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/oIijjDZpWdPCT9iUAG93nWgHtuMFQaHjlFmijxPxcuc=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/oK1Bjv95fH_hSbogUkJE_xDAI203kJG6lL6Sm-NuPWg=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/y-FyJQOcW2TOcTp7Iuv8brGBzL5ZP0oJdG7ysK_gtKc=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/n0Ag7rF7ZQamklPSZkakIXkRoa6JwlmPSS0cRaAhJQM=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/2jNkt--JGfoqWNB8whRdJotnsanWbH3FfxZWz0gyLTs=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/mQqyOIjuVduaLQ7ZyvDrChDLp8rTeQknIIWDzqsO4eY=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/3trD3kyUrc0a2IrNSfLT2rSZ35MMdD2qtqG_vk_U8QA=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/tY1dlliVr_yGzBF7d0z-iaulZfBJNaSrCKDD0RP2cc8=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/r8LuqDQgcB-c3E48xHqsAY1eRZB1ZtuqZF6nlufn7kg=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/_kkwUt5LUrFrnFcHiSvLP3Ps50UAimB6C5utgehqOo4=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/gVXmMvC7wpzqDuH0xwQIOEnxo-KZkkB0sAaxURSfq34=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/CyOxPmwcu7thjTxFKM383Spf8Y4tEnDjsgB1rBQnH2k=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/blazor/blazor.boot.json
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/jjsGVq2MdwKBPwU5KuvOP5M6Q_3c6ZRCHbSkMkIk3q8=.hash
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Client.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.Json.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Buffers.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/mscorlib.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Threading.Tasks.Extensions.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Memory.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Text.Json.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/netstandard.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Xml.Linq.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Core.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/WebAssembly.Net.WebSockets.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/WebAssembly.Bindings.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Numerics.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Xml.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Mono.Security.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Transactions.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Runtime.Serialization.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ServiceModel.Internals.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.Composition.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.IO.Compression.FileSystem.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.IO.Compression.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Drawing.Common.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Data.DataSetExtensions.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Data.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Numerics.Vectors.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Text.Encodings.Web.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.Annotations.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.DataAnnotations.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Shared.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Primitives.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Options.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Client.pdb.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Shared.pdb.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.3.2.0.js.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.timezones.dat.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.wasm.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/blazor.webassembly.js.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/blazor.boot.json.gz
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Client.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.Json.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Buffers.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/mscorlib.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Threading.Tasks.Extensions.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Memory.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Text.Json.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/netstandard.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Xml.Linq.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Core.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/WebAssembly.Net.WebSockets.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/WebAssembly.Bindings.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Numerics.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Xml.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Mono.Security.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Transactions.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Runtime.Serialization.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ServiceModel.Internals.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.Composition.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.IO.Compression.FileSystem.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.IO.Compression.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Drawing.Common.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Data.DataSetExtensions.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Data.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Numerics.Vectors.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Text.Encodings.Web.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.Annotations.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.DataAnnotations.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Shared.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Primitives.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.FileExtensions.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileProviders.Physical.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileSystemGlobbing.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileProviders.Abstractions.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Options.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Client.pdb.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Shared.pdb.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.3.2.0.js.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.timezones.dat.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.wasm.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/blazor.webassembly.js.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/blazor.boot.json.br
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/staticwebassets/BlazorShop.Client.StaticWebAssets.Manifest.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/staticwebassets/BlazorShop.Client.StaticWebAssets.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/scopedcss/bundle/BlazorShop.Client.styles.css
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.RazorTargetAssemblyInfo.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.csproj.CopyComplete
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/BlazorShop.Client.StaticWebAssets.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/BlazorShop.Client.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/BlazorShop.Client.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Client.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Buffers.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/mscorlib.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Threading.Tasks.Extensions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Memory.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Text.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/netstandard.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Xml.Linq.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Core.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Net.WebSockets.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Bindings.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Numerics.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Xml.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Mono.Security.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Transactions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.Serialization.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ServiceModel.Internals.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.Composition.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.IO.Compression.FileSystem.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.IO.Compression.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Drawing.Common.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Data.DataSetExtensions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Data.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Numerics.Vectors.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Text.Encodings.Web.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.Annotations.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.DataAnnotations.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Shared.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Primitives.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Options.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Client.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Shared.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.3.2.0.js
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.timezones.dat
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.wasm
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.webassembly.js
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.boot.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Client.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.Json.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Buffers.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/mscorlib.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Threading.Tasks.Extensions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Memory.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Text.Json.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/netstandard.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Xml.Linq.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Core.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Net.WebSockets.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Bindings.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Numerics.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Xml.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Mono.Security.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Transactions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.Serialization.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ServiceModel.Internals.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.Composition.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.IO.Compression.FileSystem.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.IO.Compression.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Drawing.Common.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Data.DataSetExtensions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Data.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Numerics.Vectors.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Text.Encodings.Web.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.Annotations.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.DataAnnotations.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Shared.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Primitives.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileProviders.Physical.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileSystemGlobbing.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Options.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Client.pdb.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Shared.pdb.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.3.2.0.js.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.timezones.dat.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.wasm.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.webassembly.js.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.boot.json.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Authorization.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.Forms.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.Web.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.WebAssembly.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Metadata.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Logging.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Options.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Primitives.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.JSInterop.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.JSInterop.WebAssembly.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Buffers.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.ComponentModel.Annotations.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Memory.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Net.Http.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Numerics.Vectors.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Text.Encodings.Web.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Text.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Threading.Tasks.Extensions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/BlazorShop.Shared.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/BlazorShop.Shared.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.csproj.AssemblyReference.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.AssemblyInfoInputs.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.AssemblyInfo.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.csproj.CoreCompileInputs.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.RazorComponent.input.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/App.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Counter.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/FetchData.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Index.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/NavMenu.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/_Imports.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.RazorComponent.output.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/BlazorShop.Client.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.TagHelpers.input.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.TagHelpers.output.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.RazorCoreGenerate.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/App.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/Counter.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/FetchData.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/Index.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/MainLayout.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/NavMenu.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/SurveyPrompt.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/_Imports.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/blazor/unlinked.output
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/n0Ag7rF7ZQamklPSZkakIXkRoa6JwlmPSS0cRaAhJQM=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/2jNkt--JGfoqWNB8whRdJotnsanWbH3FfxZWz0gyLTs=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/mQqyOIjuVduaLQ7ZyvDrChDLp8rTeQknIIWDzqsO4eY=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/3trD3kyUrc0a2IrNSfLT2rSZ35MMdD2qtqG_vk_U8QA=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/tY1dlliVr_yGzBF7d0z-iaulZfBJNaSrCKDD0RP2cc8=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/r8LuqDQgcB-c3E48xHqsAY1eRZB1ZtuqZF6nlufn7kg=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/_kkwUt5LUrFrnFcHiSvLP3Ps50UAimB6C5utgehqOo4=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/blazor/blazor.boot.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Client.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.Json.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Buffers.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/mscorlib.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Threading.Tasks.Extensions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Memory.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Text.Json.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/netstandard.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Xml.Linq.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Core.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/WebAssembly.Net.WebSockets.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/WebAssembly.Bindings.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Numerics.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Xml.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Mono.Security.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Transactions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Runtime.Serialization.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ServiceModel.Internals.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.Composition.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.IO.Compression.FileSystem.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.IO.Compression.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Drawing.Common.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Data.DataSetExtensions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Data.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Numerics.Vectors.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Text.Encodings.Web.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.Annotations.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.DataAnnotations.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Shared.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Primitives.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileProviders.Physical.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileSystemGlobbing.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Options.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Client.pdb.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Shared.pdb.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.3.2.0.js.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.timezones.dat.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.wasm.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/blazor.webassembly.js.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/blazor.boot.json.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Client.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.Json.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Buffers.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/mscorlib.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Threading.Tasks.Extensions.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Memory.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Text.Json.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/netstandard.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Xml.Linq.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Core.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/WebAssembly.Net.WebSockets.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/WebAssembly.Bindings.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Numerics.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Xml.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Mono.Security.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Transactions.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Runtime.Serialization.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ServiceModel.Internals.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.Composition.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.IO.Compression.FileSystem.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.IO.Compression.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Drawing.Common.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Data.DataSetExtensions.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Data.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Numerics.Vectors.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Text.Encodings.Web.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.Annotations.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.DataAnnotations.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Shared.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Primitives.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.FileExtensions.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileProviders.Physical.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileSystemGlobbing.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileProviders.Abstractions.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Options.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Client.pdb.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Shared.pdb.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.3.2.0.js.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.timezones.dat.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.wasm.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/blazor.webassembly.js.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/blazor.boot.json.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/staticwebassets/BlazorShop.Client.StaticWebAssets.Manifest.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/staticwebassets/BlazorShop.Client.StaticWebAssets.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/scopedcss/bundle/BlazorShop.Client.styles.css
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.RazorTargetAssemblyInfo.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.csproj.CopyComplete
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/ProductList.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/ProductList.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/ProductDetails.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/ProductDetails.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/U7bRy05wcVRmBo6we7M8gTMCbJTfvEYUVP-aO4W-4ZA=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/APJhF7Cne1YtXAEDjYtS_NC54Yt8Uy4W364YV6GfInE=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/RAOorQ519yzAjCf4-2VseymZOcN57BcD0ziZ48H75NU=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Blazored.LocalStorage.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Blazored.LocalStorage.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Blazored.LocalStorage.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Blazored.Toast.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/wB4WfCZAJe40lF9s6DPasdoVrCZUrqivPm-iFfGG-FM=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/qohgx6UXUVGuwzRXAW0wxKFTSND5cctWfzl8_2-NiWA=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/IsYgzKGKLeea1Zt3UPueaHQgT4oL500eIizZFuQY9qQ=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/uffETcY3l8U2ggeV5T7MA_TqbPIIXyT1XOWxKAaC7A4=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Blazored.LocalStorage.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Blazored.LocalStorage.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Blazored.Toast.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Blazored.Toast.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/SnlpX7tqR4Or48_LUVR7CMv3xLhjy1JBnmDfQCb2GwM=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Blazored.Toast.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Blazored.Toast.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/TopMenu.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/TopMenu.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Cart.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/Cart.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/7jydj6xQoqiHkfgl7MpvcGr6GnIp4IFuKtVxc-ASbo4=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/XCxcPFwtzBWRUqBnKeKDajMJRhVKpu5t5ZelMwiOMNU=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/nAwPh_j72Nw5abNgKrC-038kIHcOJay3DbN5v9pOVDE=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/JvGCpZMk123bSElzO7qc910Fnv7vDiDCPfOfY3kqJEk=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/D2Qd-t36jkTrEbzuZ8MOzXWwaXU5PrgFYzNZshSi4kY=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/Wy-JjusnB1fvNKS-6MnBN72_Ar_sXVGT28Zr3uKpzAs=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Authorization.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Metadata.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Authorization.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Authorization.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Metadata.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/26OoYTzumSIch5lyxMG35e-lDEUxgH8MO6Wjh6xu_q0=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/ZtsSrMjPW39saTjbNMnV_yPSjwMr9EuEv6ECz6j_354=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/FqJIZnJEqWUe-8RYYobIujxG7XJF8bts_ZGPYapNqlE=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Authorization.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Authorization.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Metadata.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Authorization.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Authorization.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Metadata.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Blazored.Typeahead.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.WebUtilities.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Net.Http.Headers.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.WebUtilities.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Net.Http.Headers.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.WebUtilities.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Net.Http.Headers.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/D5akJeBd7NNITuzAXxlX7zl2jfsc4uTKyeEKwwNhqoo=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/P66ftDrXwc6ayND8uYzIk0CPQy1GjNZAPHx9RMhi3V4=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.WebUtilities.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Net.Http.Headers.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.WebUtilities.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Net.Http.Headers.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/Pagination.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/Pagination.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Products.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/Products.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/AdminPages/AdminProducts.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/AdminPages/AdminProducts.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/AdminPages/AdminShared/AdminProductList.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/AdminPages/AdminShared/AdminProductList.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/Search.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/Search.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/Sort.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/Sort.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/AdminPages/CreateProduct.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/CustomSelect.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/AdminPages/CreateProduct.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/CustomSelect.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Collections.Concurrent.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Diagnostics.DiagnosticSource.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.IO.FileSystem.Primitives.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Linq.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Runtime.Numerics.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Security.Cryptography.OpenSsl.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Security.Cryptography.Primitives.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/System.Threading.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/brS4kX7v7bK5QHvD3m28MWueZWLhM2-Redb9wvgCLAI=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Blazor.HttpClient.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Blazor.HttpClient.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Blazor.HttpClient.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/_UJV7yBVz0a75EXLVGMXkFC3CX3Da1GOowP08aGoo8E=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Blazor.HttpClient.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Blazor.HttpClient.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/SuccessNotification.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/SuccessNotification.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/AdminPages/UpdateProduct.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/AdminPages/UpdateProduct.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Registration.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/AuthLinks.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/Registration.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/AuthLinks.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Login.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Logout.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/Login.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/Logout.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/b6lsvSPSKcmcdxrTvqFlelw8WxtrLye9EZ5QWiNO5iQ=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/Xpu26tBmG5G31oo5W4Pm_C_g9iLaI9QbXXj_Geyy7zM=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/2cTdSZqhOcQrX2dB8qZWH4HYaOV9tXPNi7gczCCwbIs=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/4Ck2xxEvPvdQRY8BmIi_Amj_onijlydTSAx6b6oBOw4=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/A4XxW2Ysb_pews1Cz99CVrUIpTPjv3-mMICFh51NirQ=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/BlazorShop.Client.StaticWebAssets.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/BlazorShop.Client.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/BlazorShop.Client.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Client.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Blazor.HttpClient.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Text.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/mscorlib.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Buffers.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/netstandard.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Xml.Linq.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Core.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Net.WebSockets.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Memory.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Bindings.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Numerics.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Xml.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Mono.Security.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Transactions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.Serialization.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ServiceModel.Internals.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.Composition.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.IO.Compression.FileSystem.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.IO.Compression.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Drawing.Common.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Data.DataSetExtensions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Data.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Threading.Tasks.Extensions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Numerics.Vectors.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Text.Encodings.Web.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.WebUtilities.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Primitives.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Net.Http.Headers.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Options.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Authorization.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Metadata.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Blazored.Toast.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.Annotations.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.DataAnnotations.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Shared.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Blazored.LocalStorage.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Client.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Shared.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.3.2.0.js
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.timezones.dat
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.wasm
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.webassembly.js
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.boot.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Client.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Blazor.HttpClient.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Text.Json.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/mscorlib.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Buffers.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/netstandard.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Xml.Linq.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Core.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Net.WebSockets.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Memory.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Bindings.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Numerics.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Xml.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Mono.Security.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Transactions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.Serialization.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ServiceModel.Internals.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.Composition.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.IO.Compression.FileSystem.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.IO.Compression.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Drawing.Common.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Data.DataSetExtensions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Data.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Threading.Tasks.Extensions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Numerics.Vectors.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Text.Encodings.Web.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.WebUtilities.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Primitives.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Net.Http.Headers.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.Json.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Options.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Authorization.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Metadata.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Blazored.Toast.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.Annotations.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.DataAnnotations.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Shared.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Blazored.LocalStorage.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Authorization.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileProviders.Physical.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileSystemGlobbing.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Client.pdb.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorShop.Shared.pdb.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.3.2.0.js.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.timezones.dat.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.wasm.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.webassembly.js.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.boot.json.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Blazored.LocalStorage.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Blazored.Toast.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Blazored.Typeahead.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Authorization.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Blazor.HttpClient.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.Forms.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.Web.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.WebAssembly.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Metadata.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.AspNetCore.WebUtilities.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Logging.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Options.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Extensions.Primitives.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.JSInterop.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.JSInterop.WebAssembly.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/Microsoft.Net.Http.Headers.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/System.Buffers.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/System.Collections.Concurrent.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/System.ComponentModel.Annotations.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/System.Diagnostics.DiagnosticSource.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/System.IO.FileSystem.Primitives.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/System.Linq.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/System.Memory.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/System.Net.Http.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/System.Numerics.Vectors.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/System.Runtime.Numerics.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/System.Security.Cryptography.OpenSsl.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/System.Security.Cryptography.Primitives.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/System.Text.Encodings.Web.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/System.Text.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/System.Threading.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/System.Threading.Tasks.Extensions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/BlazorShop.Shared.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/BlazorShop.Shared.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.csproj.AssemblyReference.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.AssemblyInfoInputs.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.AssemblyInfo.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.csproj.CoreCompileInputs.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.RazorComponent.input.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/App.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/AdminPages/AdminProducts.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/AdminPages/AdminShared/AdminProductList.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/AdminPages/CreateProduct.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/AdminPages/UpdateProduct.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Cart.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Counter.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Index.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Login.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Logout.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/ProductDetails.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Products.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Registration.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/AuthLinks.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/CustomSelect.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/NavMenu.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/Pagination.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/ProductList.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/Search.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/Sort.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/SuccessNotification.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/TopMenu.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/_Imports.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.RazorComponent.output.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/BlazorShop.Client.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.TagHelpers.input.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.TagHelpers.output.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.RazorCoreGenerate.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/App.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/AdminPages/AdminProducts.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/AdminPages/AdminShared/AdminProductList.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/AdminPages/CreateProduct.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/AdminPages/UpdateProduct.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/Cart.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/Counter.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/Index.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/Login.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/Logout.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/ProductDetails.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/Products.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Pages/Registration.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/AuthLinks.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/CustomSelect.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/MainLayout.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/NavMenu.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/Pagination.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/ProductList.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/Search.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/Sort.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/SuccessNotification.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/SurveyPrompt.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/TopMenu.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/_Imports.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/blazor/unlinked.output
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/_UJV7yBVz0a75EXLVGMXkFC3CX3Da1GOowP08aGoo8E=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/U7bRy05wcVRmBo6we7M8gTMCbJTfvEYUVP-aO4W-4ZA=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/APJhF7Cne1YtXAEDjYtS_NC54Yt8Uy4W364YV6GfInE=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/RAOorQ519yzAjCf4-2VseymZOcN57BcD0ziZ48H75NU=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/D5akJeBd7NNITuzAXxlX7zl2jfsc4uTKyeEKwwNhqoo=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/D2Qd-t36jkTrEbzuZ8MOzXWwaXU5PrgFYzNZshSi4kY=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/P66ftDrXwc6ayND8uYzIk0CPQy1GjNZAPHx9RMhi3V4=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/brS4kX7v7bK5QHvD3m28MWueZWLhM2-Redb9wvgCLAI=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/JvGCpZMk123bSElzO7qc910Fnv7vDiDCPfOfY3kqJEk=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/7jydj6xQoqiHkfgl7MpvcGr6GnIp4IFuKtVxc-ASbo4=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/Wy-JjusnB1fvNKS-6MnBN72_Ar_sXVGT28Zr3uKpzAs=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/ZtsSrMjPW39saTjbNMnV_yPSjwMr9EuEv6ECz6j_354=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/FqJIZnJEqWUe-8RYYobIujxG7XJF8bts_ZGPYapNqlE=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/nAwPh_j72Nw5abNgKrC-038kIHcOJay3DbN5v9pOVDE=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/SnlpX7tqR4Or48_LUVR7CMv3xLhjy1JBnmDfQCb2GwM=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/wB4WfCZAJe40lF9s6DPasdoVrCZUrqivPm-iFfGG-FM=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/qohgx6UXUVGuwzRXAW0wxKFTSND5cctWfzl8_2-NiWA=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/XCxcPFwtzBWRUqBnKeKDajMJRhVKpu5t5ZelMwiOMNU=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/IsYgzKGKLeea1Zt3UPueaHQgT4oL500eIizZFuQY9qQ=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/26OoYTzumSIch5lyxMG35e-lDEUxgH8MO6Wjh6xu_q0=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/uffETcY3l8U2ggeV5T7MA_TqbPIIXyT1XOWxKAaC7A4=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/n0Ag7rF7ZQamklPSZkakIXkRoa6JwlmPSS0cRaAhJQM=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/2jNkt--JGfoqWNB8whRdJotnsanWbH3FfxZWz0gyLTs=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/mQqyOIjuVduaLQ7ZyvDrChDLp8rTeQknIIWDzqsO4eY=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/3trD3kyUrc0a2IrNSfLT2rSZ35MMdD2qtqG_vk_U8QA=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/tY1dlliVr_yGzBF7d0z-iaulZfBJNaSrCKDD0RP2cc8=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/r8LuqDQgcB-c3E48xHqsAY1eRZB1ZtuqZF6nlufn7kg=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/_kkwUt5LUrFrnFcHiSvLP3Ps50UAimB6C5utgehqOo4=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/blazor/blazor.boot.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Client.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Blazor.HttpClient.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Text.Json.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/mscorlib.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Buffers.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/netstandard.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Xml.Linq.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Core.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/WebAssembly.Net.WebSockets.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Memory.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/WebAssembly.Bindings.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Numerics.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Xml.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Mono.Security.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Transactions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Runtime.Serialization.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ServiceModel.Internals.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.Composition.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.IO.Compression.FileSystem.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.IO.Compression.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Drawing.Common.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Data.DataSetExtensions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Data.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Threading.Tasks.Extensions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Numerics.Vectors.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Text.Encodings.Web.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.WebUtilities.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Primitives.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Net.Http.Headers.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.Json.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Options.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Authorization.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Metadata.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Blazored.Toast.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.Annotations.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.DataAnnotations.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Shared.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Blazored.LocalStorage.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Authorization.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileProviders.Physical.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileSystemGlobbing.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Client.pdb.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Shared.pdb.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.3.2.0.js.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.timezones.dat.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.wasm.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/blazor.webassembly.js.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/blazor.boot.json.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Client.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Blazor.HttpClient.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Text.Json.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/mscorlib.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Buffers.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/netstandard.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Xml.Linq.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Core.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/WebAssembly.Net.WebSockets.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Memory.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/WebAssembly.Bindings.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Numerics.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Xml.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Mono.Security.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Transactions.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Runtime.Serialization.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ServiceModel.Internals.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.Composition.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.IO.Compression.FileSystem.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.IO.Compression.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Drawing.Common.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Data.DataSetExtensions.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Data.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Threading.Tasks.Extensions.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Numerics.Vectors.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Text.Encodings.Web.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.WebUtilities.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Primitives.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Net.Http.Headers.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.Json.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Options.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Authorization.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Metadata.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Blazored.Toast.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.Annotations.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.DataAnnotations.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Shared.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Blazored.LocalStorage.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Authorization.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.FileExtensions.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileProviders.Physical.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileSystemGlobbing.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileProviders.Abstractions.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Client.pdb.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorShop.Shared.pdb.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.3.2.0.js.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.timezones.dat.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.wasm.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/blazor.webassembly.js.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/blazor.boot.json.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/staticwebassets/BlazorShop.Client.StaticWebAssets.Manifest.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/staticwebassets/BlazorShop.Client.StaticWebAssets.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/scopedcss/bundle/BlazorShop.Client.styles.css
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.RazorTargetAssemblyInfo.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.csproj.CopyComplete
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/BlazorShop.Client.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/RazorDeclaration/Shared/SimpleLayout.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/Razor/Shared/SimpleLayout.razor.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/BlazorComponentUtilities.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/BlazorStrap.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/baEqUUrxr_In8TFqP7hZw_7-hT8x9GyaGxC-zDLKNAY=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/EGN6rvyOQ9w7cvYNhamUvdW4z1_lcbYByslmRCCKVlg=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorStrap.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorComponentUtilities.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorStrap.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/BlazorComponentUtilities.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/VzpPtt7MAOLLMSu3WJkgD9VERTJQsqEgTDpHdDv6W8M=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/9VqqASjMRw8LX9vNXRKXBE_XlDpUfTeuo4_CPgg1fQE=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorStrap.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorComponentUtilities.dll.gz
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorStrap.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/BlazorComponentUtilities.dll.br
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/Y9Rq-gqp7rKVZhhZzGTwhpNDvIe7qY8fTeyus5GYC3w=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/Dl3ozB2tWpjv1rYHKvpWbHQiUfd-6W7PrFPom_Edy-Q=.hash
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/obj/Debug/netstandard2.1/integrity/UaE-rVXQCYrEOowqyL6nVqmwFp4qoyDnC4QfDQY4F8E=.hash

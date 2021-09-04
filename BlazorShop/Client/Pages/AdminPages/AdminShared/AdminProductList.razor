@@ -1,0 +1,95 @@
+@inject IProductService ProductService
+@implements IDisposable
+
+@if (Products.Count > 0)
+{
+    <table class="table">
+        <thead>
+        <tr>
+            <th scope="col"></th>
+            <th scope="col">Name</th>
+            <th scope="col">Description</th>
+            <th scope="col">Price</th>
+            <th scope="col">Update</th>
+            <th scope="col">Delete</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var product in Products)
+        {
+            <tr>
+                <td>
+                    <img src="@product.Image" alt="product image" style="width:100px;" />
+                </td>
+                <td class="align-middle">
+                    @product.Title
+                </td>
+                <td class="align-middle">
+                    @product.Description
+                </td>
+                <td class="align-middle">
+                    $@product.Price
+                </td>
+                <td class="align-middle">
+                <button type="button" class="btn btn-info" @onclick="() => RedirectToUpdate(product.Id)">Update</button>
+                </td>
+                <td class="align-middle">
+                    <button type="button" class="btn btn-danger" @onclick="() => Delete(product.Id)">Delete</button>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+else
+{
+    <span>
+        Loading products...
+    </span>
+}
+
+@code{
+
+    [Parameter]
+    public List<Product> Products { get; set; } = new List<Product>();
+    
+    [Inject]
+    NavigationManager NavigationManager { get; set; }
+    
+    [Inject]
+    IJSRuntime Js { get; set; }
+    
+    
+    protected override void OnInitialized()
+    {
+    //await ProductService.LoadProducts();
+        ProductService.OnChange += StateHasChanged;
+    }
+
+    public void Dispose()
+    {
+        ProductService.OnChange -= StateHasChanged;
+    }
+
+    private void RedirectToUpdate(int id)
+    {
+        NavigationManager.NavigateTo($"edit/updateproduct/{id}");
+    }
+    
+    [Parameter]
+    public EventCallback<int> OnDeleted { get; set; }
+
+    private async Task Delete(int id)
+    {
+        var product = Products.FirstOrDefault(p => p.Id.Equals(id));
+
+        var confirmed = await Js.InvokeAsync<bool>("confirm", $"Are you sure you want to delete {product.Title} product?");
+        if (confirmed)
+        {
+            await OnDeleted.InvokeAsync(id);
+        }
+    }
+
+    
+
+}

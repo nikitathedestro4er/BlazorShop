@@ -1,0 +1,27 @@
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Shared/bin/Debug/netstandard2.1/BlazorShop.Shared.deps.json
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Shared/bin/Debug/netstandard2.1/BlazorShop.Shared.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Shared/bin/Debug/netstandard2.1/BlazorShop.Shared.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Shared/obj/Debug/netstandard2.1/BlazorShop.Shared.csproj.AssemblyReference.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Shared/obj/Debug/netstandard2.1/BlazorShop.Shared.AssemblyInfoInputs.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Shared/obj/Debug/netstandard2.1/BlazorShop.Shared.AssemblyInfo.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Shared/obj/Debug/netstandard2.1/BlazorShop.Shared.csproj.CoreCompileInputs.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Shared/obj/Debug/netstandard2.1/BlazorShop.Shared.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Shared/obj/Debug/netstandard2.1/BlazorShop.Shared.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Shared/bin/Debug/netstandard2.1/BlazorShop.Shared.deps.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Shared/bin/Debug/netstandard2.1/BlazorShop.Shared.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Shared/bin/Debug/netstandard2.1/BlazorShop.Shared.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Shared/obj/Debug/netstandard2.1/BlazorShop.Shared.csproj.AssemblyReference.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Shared/obj/Debug/netstandard2.1/BlazorShop.Shared.AssemblyInfoInputs.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Shared/obj/Debug/netstandard2.1/BlazorShop.Shared.AssemblyInfo.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Shared/obj/Debug/netstandard2.1/BlazorShop.Shared.csproj.CoreCompileInputs.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Shared/obj/Debug/netstandard2.1/BlazorShop.Shared.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Shared/obj/Debug/netstandard2.1/BlazorShop.Shared.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Shared/bin/Debug/netstandard2.1/BlazorShop.Shared.deps.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Shared/bin/Debug/netstandard2.1/BlazorShop.Shared.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Shared/bin/Debug/netstandard2.1/BlazorShop.Shared.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Shared/obj/Debug/netstandard2.1/BlazorShop.Shared.csproj.AssemblyReference.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Shared/obj/Debug/netstandard2.1/BlazorShop.Shared.AssemblyInfoInputs.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Shared/obj/Debug/netstandard2.1/BlazorShop.Shared.AssemblyInfo.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Shared/obj/Debug/netstandard2.1/BlazorShop.Shared.csproj.CoreCompileInputs.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Shared/obj/Debug/netstandard2.1/BlazorShop.Shared.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Shared/obj/Debug/netstandard2.1/BlazorShop.Shared.pdb

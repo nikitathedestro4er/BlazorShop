@@ -1,0 +1,744 @@
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Client.StaticWebAssets.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authentication.Abstractions.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authentication.Core.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authentication.Core.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authentication.Core.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authorization.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authorization.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authorization.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Connections.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Connections.Abstractions.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Connections.Abstractions.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Diagnostics.Abstractions.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Diagnostics.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Diagnostics.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Diagnostics.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.HostFiltering.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.HostFiltering.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.HostFiltering.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.Abstractions.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.Server.Abstractions.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Abstractions.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Abstractions.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Extensions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Extensions.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Extensions.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Features.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Features.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Features.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.HttpOverrides.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.HttpOverrides.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.HttpOverrides.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Metadata.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Metadata.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Metadata.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Routing.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Routing.Abstractions.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Routing.Abstractions.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Routing.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Routing.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Routing.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.IIS.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.IIS.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.IIS.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.IISIntegration.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.IISIntegration.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.IISIntegration.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.Core.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.WebSockets.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.WebSockets.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.WebSockets.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.WebUtilities.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.WebUtilities.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.WebUtilities.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.CodeAnalysis.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.CommandLine.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.UserSecrets.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.FileProviders.Composite.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Hosting.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Hosting.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.Configuration.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.Console.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.Debug.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.EventLog.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.EventSource.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.ObjectPool.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Options.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Primitives.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Net.Http.Headers.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Net.Http.Headers.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Net.Http.Headers.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Mono.Cecil.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Mono.Cecil.Mdb.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Mono.Cecil.Pdb.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Mono.Cecil.Rocks.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Newtonsoft.Json.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.EventLog.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/System.Diagnostics.EventLog.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/System.IO.Pipelines.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/x64/aspnetcorev2_inprocess.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/x86/aspnetcorev2_inprocess.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.StaticWebAssets.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.exe
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.deps.json
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.runtimeconfig.json
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.runtimeconfig.dev.json
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.Views.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.Views.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authorization.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Components.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Components.Forms.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Components.Web.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Components.WebAssembly.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Metadata.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.JSInterop.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.JSInterop.WebAssembly.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Net.Http.Json.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Client.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Shared.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Client.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Shared.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.csproj.AssemblyReference.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.AssemblyInfoInputs.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.AssemblyInfo.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.csproj.CoreCompileInputs.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.RazorAssemblyInfo.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.RazorAssemblyInfo.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/staticwebassets/BlazorShop.Server.StaticWebAssets.Manifest.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/staticwebassets/BlazorShop.Server.StaticWebAssets.xml
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/scopedcss/bundle/BlazorShop.Server.styles.css
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.TagHelpers.input.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.TagHelpers.output.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.RazorCoreGenerate.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.RazorTargetAssemblyInfo.cache
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.RazorTargetAssemblyInfo.cs
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.Views.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.csproj.CopyComplete
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.dll
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.pdb
+C:/Users/Nikita/source/repos/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.genruntimeconfig.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Client.StaticWebAssets.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/de/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/es/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/it/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authentication.Abstractions.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authentication.Abstractions.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authentication.Core.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authentication.Core.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authorization.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authorization.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authorization.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Connections.Abstractions.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Connections.Abstractions.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Diagnostics.Abstractions.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Diagnostics.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Diagnostics.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Diagnostics.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.HostFiltering.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.HostFiltering.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.HostFiltering.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.Abstractions.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.Abstractions.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.Server.Abstractions.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Abstractions.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Abstractions.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Extensions.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Extensions.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Features.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Features.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Features.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.HttpOverrides.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.HttpOverrides.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Metadata.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Metadata.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Metadata.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Routing.Abstractions.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Routing.Abstractions.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Routing.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Routing.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Routing.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.IIS.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.IIS.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.IIS.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.IISIntegration.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.IISIntegration.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.Core.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.Core.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.WebSockets.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.WebSockets.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.WebSockets.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.WebUtilities.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.WebUtilities.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.WebUtilities.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.CodeAnalysis.CSharp.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.CodeAnalysis.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.Binder.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.DependencyInjection.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Hosting.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.Configuration.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.Console.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.Debug.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.EventLog.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.EventSource.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.ObjectPool.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Options.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Primitives.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Net.Http.Headers.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Net.Http.Headers.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Net.Http.Headers.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Mono.Cecil.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Mono.Cecil.Mdb.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Mono.Cecil.Pdb.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Mono.Cecil.Rocks.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Newtonsoft.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.EventLog.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/System.Diagnostics.EventLog.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/System.IO.Pipelines.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/x64/aspnetcorev2_inprocess.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/x86/aspnetcorev2_inprocess.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.StaticWebAssets.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.deps.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.runtimeconfig.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.runtimeconfig.dev.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.Views.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.Views.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authorization.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Components.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Components.Forms.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Components.Web.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Components.WebAssembly.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Metadata.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.JSInterop.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.JSInterop.WebAssembly.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Net.Http.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Client.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Shared.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Client.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Shared.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.csproj.AssemblyReference.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.AssemblyInfoInputs.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.AssemblyInfo.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.csproj.CoreCompileInputs.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.MvcApplicationPartsAssemblyInfo.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.RazorAssemblyInfo.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.RazorAssemblyInfo.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/staticwebassets/BlazorShop.Server.StaticWebAssets.Manifest.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/staticwebassets/BlazorShop.Server.StaticWebAssets.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/scopedcss/bundle/BlazorShop.Server.styles.css
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.TagHelpers.input.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.TagHelpers.output.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.RazorCoreGenerate.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.RazorTargetAssemblyInfo.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.RazorTargetAssemblyInfo.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.Views.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.csproj.CopyComplete
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.genruntimeconfig.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Blazored.LocalStorage.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Blazored.Toast.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Blazored.Typeahead.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Linq.Dynamic.Core.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Blazor.HttpClient.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/de/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/es/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/it/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authentication.Abstractions.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authentication.Abstractions.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authentication.Core.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authentication.Core.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authorization.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authorization.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Authorization.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Connections.Abstractions.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Connections.Abstractions.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Diagnostics.Abstractions.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Diagnostics.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Diagnostics.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Diagnostics.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.HostFiltering.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.HostFiltering.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.HostFiltering.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.Abstractions.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.Abstractions.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.Server.Abstractions.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Hosting.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Abstractions.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Abstractions.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Extensions.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Extensions.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Features.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Features.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.Features.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Http.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.HttpOverrides.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.HttpOverrides.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Metadata.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Metadata.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Metadata.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Routing.Abstractions.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Routing.Abstractions.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Routing.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Routing.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Routing.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.IIS.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.IIS.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.IIS.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.IISIntegration.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.IISIntegration.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.Core.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.Core.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.Server.Kestrel.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.WebSockets.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.WebSockets.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.WebSockets.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.WebUtilities.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.WebUtilities.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.WebUtilities.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.AspNetCore.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.CodeAnalysis.CSharp.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.CodeAnalysis.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.Binder.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.DependencyInjection.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Hosting.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.Configuration.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.Console.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.Debug.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.EventLog.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Logging.EventSource.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.ObjectPool.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Options.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Extensions.Primitives.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Net.Http.Headers.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Net.Http.Headers.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Microsoft.Net.Http.Headers.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Mono.Cecil.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Mono.Cecil.Mdb.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Mono.Cecil.Pdb.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Mono.Cecil.Rocks.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/Newtonsoft.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.EventLog.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/System.Diagnostics.EventLog.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/System.IO.Pipelines.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/x64/aspnetcorev2_inprocess.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/x86/aspnetcorev2_inprocess.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorDebugProxy/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Client.StaticWebAssets.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.StaticWebAssets.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.deps.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.runtimeconfig.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.runtimeconfig.dev.json
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.Views.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Server.Views.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Blazored.LocalStorage.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Blazored.Toast.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Blazored.Typeahead.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authorization.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Blazor.HttpClient.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Components.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Components.Forms.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Components.Web.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Components.WebAssembly.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Metadata.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.JSInterop.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Microsoft.JSInterop.WebAssembly.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Linq.Dynamic.Core.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Net.Http.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Client.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Shared.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Client.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorShop.Shared.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.csproj.AssemblyReference.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.AssemblyInfoInputs.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.AssemblyInfo.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.csproj.CoreCompileInputs.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.MvcApplicationPartsAssemblyInfo.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.RazorAssemblyInfo.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.RazorAssemblyInfo.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/staticwebassets/BlazorShop.Server.StaticWebAssets.Manifest.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/staticwebassets/BlazorShop.Server.StaticWebAssets.xml
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/scopedcss/bundle/BlazorShop.Server.styles.css
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.TagHelpers.input.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.TagHelpers.output.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.RazorCoreGenerate.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.RazorTargetAssemblyInfo.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.RazorTargetAssemblyInfo.cs
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.Views.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.csproj.CopyComplete
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.pdb
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/obj/Debug/netcoreapp3.1/BlazorShop.Server.genruntimeconfig.cache
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorComponentUtilities.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/BlazorStrap.dll
+/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Server/bin/Debug/netcoreapp3.1/appsettings.Production.json

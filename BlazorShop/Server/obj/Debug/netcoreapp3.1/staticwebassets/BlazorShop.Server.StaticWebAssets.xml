@@ -1,0 +1,8 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/Blazored.Toast" Path="/Users/nikitapinchuk/.nuget/packages/blazored.toast/3.1.2/build/../staticwebassets/" />
+  <ContentRoot BasePath="_content/Blazored.Typeahead" Path="/Users/nikitapinchuk/.nuget/packages/blazored.typeahead/4.6.0/build/../staticwebassets/" />
+  <ContentRoot BasePath="_content/BlazorStrap" Path="/Users/nikitapinchuk/.nuget/packages/blazorstrap/1.5.1/build/../staticwebassets/" />
+  <ContentRoot BasePath="_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication" Path="/Users/nikitapinchuk/.nuget/packages/microsoft.aspnetcore.components.webassembly.authentication/3.2.1/build/../staticwebassets/" />
+  <ContentRoot BasePath="/" Path="/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/bin/Debug/netstandard2.1/wwwroot/" />
+  <ContentRoot BasePath="/" Path="/Users/nikitapinchuk/RiderProjects/BlazorShop copy/BlazorShop/Client/wwwroot/" />
+</StaticWebAssets>

@@ -1,0 +1,71 @@
+@inject IProductService ProductService
+@implements IDisposable
+
+@if (Products.Count > 0)
+{
+    <ul class="list-unstyled">
+        @foreach (var product in Products)
+        {
+            <li class="media my-3">
+                <div class="media-img-wrapper mr-2">
+                    <a href="/product/@product.Id">
+                        <img class="media-img" src="@product.Image" alt="@product.Title"/>
+                    </a>
+                </div>
+                <div class="media-body">
+                    <a href="/product/@product.Id">
+                        <h4 class="mb-0">@product.Title</h4>
+                    </a>
+                    <p>@product.Description</p>
+                    @if (product.OriginalPrice > product.Price)
+                    {
+                        <h6 class="text-muted original-price">$@GetPriceString(product.OriginalPrice)</h6>
+                                
+                    }
+                    <h4 class="price">
+                        $@GetPriceString(product.Price)
+                    </h4>
+                </div>
+            </li>
+            <li class="dropdown-divider"></li>
+        }
+    </ul>
+}
+else
+{
+    <span>
+        Loading products...
+    </span>
+}
+
+@code {
+
+    // [Parameter]
+    // public int? CategoryId { get; set; } = null;
+    [Parameter]
+    public List<Product> Products { get; set; } = new List<Product>();
+    
+    protected override void OnInitialized()
+    {
+        //await ProductService.LoadProducts();
+        ProductService.OnChange += StateHasChanged;
+    }
+
+    public void Dispose()
+    {
+        ProductService.OnChange -= StateHasChanged;
+    }
+    
+    private string GetPriceString(decimal price)
+    {
+        if (price >= 1000000)
+            return $"{((float)price / 1000000).ToString("#.##")}M";
+        if (price > 100000)
+            return $"{((float)price / 1000).ToString("#")}K";
+
+        return price.ToString("0##");
+    }
+
+    
+
+}

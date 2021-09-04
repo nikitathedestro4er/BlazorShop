@@ -1,0 +1,94 @@
+﻿@page "/"
+@inject ICategoryService CategoryService
+@inject IProductService ProductService
+@inject IStatsService StatsService
+@inject ISyncLocalStorageService LocalStorage
+
+
+
+<AuthorizeView>
+    <NotAuthorized>
+        <h1>Welcome to Mad Max Garage!</h1>
+    </NotAuthorized>
+    <Authorized>
+        <h1>Welcome back!</h1>
+    </Authorized>
+</AuthorizeView>
+
+
+<BSCarousel NumberOfItems="@items.Count">
+    <BSCarouselIndicators/>
+    <div class="carousel-inner">
+        @for (int i = 0; i < items.Count; i++)
+        {
+            <BSCarouselItem Src="@items[i].Source" Alt="@items[i].Alt" ActionLink="@items[i].ActionLink" ActionLinkTarget="@items[i].ActionLinkTarget" style="width: 100%;height: 600px"/>
+        }
+        <BSCarouselControl CarouselDirection="CarouselDirection.Previous" NumberOfItems="@items.Count"/>
+        <BSCarouselControl CarouselDirection="CarouselDirection.Next" NumberOfItems="@items.Count"/>
+    </div>
+</BSCarousel>
+
+
+@code
+{
+    IList<Item> items = new List<Item>
+    {
+        new Item
+        {
+            Source = "/images/1.jpg",
+            Alt = "First Slide",
+            Caption = "Slide 1",
+            Header = "Slide 1 Header",
+            ActionLink = "/products/cars",
+            ActionLinkTarget = "_blank"
+        },
+        new Item
+        {
+            Source = "/images/2.jpg",
+            Alt = "Second Slide",
+            Caption = "Slide 2",
+            Header = "Slide 2 Header",
+            ActionLink = "/products/bikes",
+            ActionLinkTarget = "_blank"
+        
+        },
+        new Item
+        {
+            Source = "/images/3.jpg",
+            Alt = "Third Slide",
+            Caption = "Slide 3",
+            Header = "Slide 3 Header",
+            ActionLink = "/products/aicrafts",
+            ActionLinkTarget = "_blank"
+        },
+        new Item
+        {
+            Source = "/images/4.jpg",
+            Alt = "Fourth Slide",
+            Caption = "Slide 4",
+            Header = "Slide 4 Header",
+            ActionLink = "/products/tanks",
+            ActionLinkTarget = "_blank"
+        }
+    };
+
+    
+    class Item
+    {
+        public string Source { get; set; }
+        public string Alt { get; set; }
+        public string Caption { get; set; }
+        public string Header { get; set; }
+        public string ActionLink { get; set; }
+        public string ActionLinkTarget { get; set; }
+    }
+
+    protected override void OnInitialized()
+    {
+        StatsService.IncrementVisits();
+        StatsService.GetVisits();
+    }
+
+    
+    
+}

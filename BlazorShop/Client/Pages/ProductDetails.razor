@@ -1,0 +1,82 @@
+@page "/product/{id:int}"
+@inject IProductService ProductService
+@inject ICartService CartService
+@inject ILocalStorageService LocaleStorage
+@inject IToastService ToastService
+
+<div class="views">
+    <i class="oi oi-eye"></i> @GetViewString()
+</div>
+<div class="media">
+    <div class="media-img-big-wrapper mr-2">
+        <img class="media-img-big" src="@product.Image" alt="@product.Title"/>
+    </div>
+    <div class="media-body">
+        <h2 class="mb-0">@product.Title</h2>
+        <p>@product.Description</p>
+        @if (product.OriginalPrice > product.Price)
+        {
+            <h6 class="text-muted original-price">$@GetPriceString(product.OriginalPrice)</h6>
+        }
+        <h4 class="price">
+            $@GetPriceString(product.Price)
+        </h4>
+        <EditForm Model="cartItem">
+            <div class="form-group">
+                <InputNumber id="quantity" @bind-Value="cartItem.Quantity" class="form-control cart-quantity"/>
+            </div>
+        </EditForm>
+        <button class="btn btn-primary" @onclick="AddToCart"><i class="oi oi-cart"></i>&nbsp;&nbsp;&nbsp;Add to Cart</button>
+    </div>
+</div>
+
+@code {
+
+    private Product product = new Product();
+
+    private CartItem cartItem = new CartItem {Quantity = 1};
+    
+    [Parameter]
+    public int Id { get; set; }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        product = await ProductService.GetProduct(Id);
+        
+    }
+    
+
+    private async Task AddToCart()
+    {
+
+        cartItem.Image = product.Image;
+        cartItem.Price = product.Price;
+        cartItem.ProductId = product.Id;
+        cartItem.ProductTitle = product.Title;
+        
+        await CartService.AddToCart(cartItem);
+    }
+
+    private string GetViewString()
+    {
+        if (product.Views > 1000000)
+            return $"{((float)product.Views / 1000000).ToString("#.##")}M";
+        if (product.Views > 100000)
+            return $"{((float)product.Views / 1000).ToString("#")}K";
+        if (product.Views > 1000)
+            return $"{((float)product.Views / 1000).ToString("#.##")}K";
+
+        return product.Views.ToString("0##");
+    }
+
+    private string GetPriceString(decimal price)
+    {
+        if (price >= 1000000)
+            return $"{((float)price / 1000000).ToString("#.##")}M";
+        if (price > 100000)
+            return $"{((float)price / 1000).ToString("#")}K";
+
+        return price.ToString("0##");
+    }
+
+}

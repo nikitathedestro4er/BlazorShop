@@ -1,0 +1,61 @@
+﻿ @inject ICategoryService CategoryService
+ @inject ILocalStorageService LocalStorage
+ @inject AuthenticationStateProvider AuthStateProvider
+ 
+
+ 
+ <div class="top-row pl-4 navbar navbar-dark">
+     <a class="navbar-brand" href="">Mad Max Garage</a>
+     <button class="navbar-toggler" @onclick="ToggleNavMenu">
+         <span class="navbar-toggler-icon"></span>
+     </button>
+ </div>
+ 
+<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
+    <ul class="nav flex-column">
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <object data="icons/hangar.svg" width="75" height="75"></object> Home
+            </NavLink>
+        </li>
+        <li class="dropdown-divider"></li>
+        @foreach (var category in CategoryService.Categories)
+        {
+            <li class="nav-item px-3">
+                <NavLink class="nav-link" href="@Route(category.Url)" >
+                    <object data="@GetIcon(category.Icon)" width="75" height="75"></object> @category.Name
+                </NavLink>
+            </li>
+        }
+        <AuthorizeView Roles="Administrator">
+            <li class="dropdown-divider"></li>
+            <li class="nav-item px-3">
+                <NavLink class="nav-link" href="edit/products">
+                    <object data="icons/edit.svg" width="75" height="75"></object> Edit
+                </NavLink>
+            </li>
+        </AuthorizeView>
+    </ul>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await CategoryService.LoadCategories();
+    }
+
+    private string GetIcon(string categoryIcon)=>$"icons/{categoryIcon}.svg";
+
+
+    private string Route(string url) => $"products/{url}";
+
+}
