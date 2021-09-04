@@ -11,3 +11,4 @@ FEATURES:
 2.ASP.Net Identity with Identity Users, Identity Roles, Registration, Login and Logout. Also there is a JWT bearer token.
 3.LocalStorage for JWT token and Cart.
 4.Pagination, Searching and Sorting.
+5.Counting of website's visits and product's visits.
